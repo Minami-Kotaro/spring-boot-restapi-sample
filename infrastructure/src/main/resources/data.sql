@@ -1,0 +1,1 @@
+INSERT INTO m_user(id, name, password, age) VALUES('1', 'Kato', 'password', 10);
